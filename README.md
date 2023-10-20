@@ -13,6 +13,9 @@
 - https://ojs.unpkediri.ac.id/index.php/intensif
 - https://jtiik.ub.ac.id/index.php/jtiik
 - https://jurnal.iaii.or.id/index.php/RESTI
+- https://jurnal.kominfo.go.id/index.php/pekommas/index
+- https://jurnal.ugm.ac.id/ijccs
+- https://ejournal.undiksha.ac.id/index.php/janapati
 
 ## Sinta 3
 - https://journal.maranatha.edu/index.php/jutisi
