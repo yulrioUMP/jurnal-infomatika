@@ -16,6 +16,9 @@
 - https://jurnal.kominfo.go.id/index.php/pekommas/index
 - https://jurnal.ugm.ac.id/ijccs
 - https://ejournal.undiksha.ac.id/index.php/janapati
+- https://ijair.id/index.php/ijair
+- https://journal.binus.ac.id/index.php/comtech/index
+- https://ojs3.unpatti.ac.id/index.php/barekeng
 
 ## Sinta 3
 - https://journal.maranatha.edu/index.php/jutisi
