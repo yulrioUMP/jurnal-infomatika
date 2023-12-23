@@ -41,5 +41,4 @@
 - https://jsi.stikom-bali.ac.id/index.php/jsi/index
 - https://journal.unsika.ac.id/index.php/syntax/index
 - https://journal.unpas.ac.id/index.php/infomatek
-- http://journal.uad.ac.id/index.php/JITEKI/
 
