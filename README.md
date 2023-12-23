@@ -4,7 +4,7 @@
 - https://journal.binus.ac.id/index.php/commit/index
 - https://kinetik.umm.ac.id/index.php/kinetik/index
 - https://jurnal.untan.ac.id/index.php/jepin/search
-- https://journals.ums.ac.id/index.php/khif *
+- https://journals.ums.ac.id/index.php/khif **
 - https://join.if.uinsgd.ac.id/index.php/join *
 - https://jurnalnasional.ump.ac.id/index.php/JUITA/index *
 - https://journal.universitasbumigora.ac.id/index.php/matrik
