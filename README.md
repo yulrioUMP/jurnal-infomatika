@@ -4,19 +4,19 @@
 - https://journal.binus.ac.id/index.php/commit/index
 - https://kinetik.umm.ac.id/index.php/kinetik/index
 - https://jurnal.untan.ac.id/index.php/jepin/search
-- https://journals.ums.ac.id/index.php/khif
-- https://join.if.uinsgd.ac.id/index.php/join
-- https://jurnalnasional.ump.ac.id/index.php/JUITA/index
+- https://journals.ums.ac.id/index.php/khif *
+- https://join.if.uinsgd.ac.id/index.php/join *
+- https://jurnalnasional.ump.ac.id/index.php/JUITA/index *
 - https://journal.universitasbumigora.ac.id/index.php/matrik
 - http://journal.uad.ac.id/index.php/JITEKI/
 - https://ojs.unud.ac.id/index.php/lontar
 - https://ojs.unpkediri.ac.id/index.php/intensif
 - https://jtiik.ub.ac.id/index.php/jtiik
-- https://jurnal.iaii.or.id/index.php/RESTI
+- https://jurnal.iaii.or.id/index.php/RESTI *
 - https://jurnal.kominfo.go.id/index.php/pekommas/index
 - https://jurnal.ugm.ac.id/ijccs
-- https://ejournal.undiksha.ac.id/index.php/janapati
-- https://ijair.id/index.php/ijair
+- https://ejournal.undiksha.ac.id/index.php/janapati *
+- https://ijair.id/index.php/ijair *
 - https://journal.binus.ac.id/index.php/comtech/index
 - https://ojs3.unpatti.ac.id/index.php/barekeng
 
