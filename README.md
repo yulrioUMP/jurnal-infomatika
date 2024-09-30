@@ -19,6 +19,7 @@
 - https://ijair.id/index.php/ijair *
 - https://journal.binus.ac.id/index.php/comtech/index
 - https://ojs3.unpatti.ac.id/index.php/barekeng
+- https://ejournal.undip.ac.id/index.php/jsinbis
 
 ## Sinta 3
 - https://journal.maranatha.edu/index.php/jutisi
