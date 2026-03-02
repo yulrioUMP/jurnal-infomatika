@@ -19,7 +19,6 @@
 - https://journal.binus.ac.id/index.php/comtech/index
 - https://ojs3.unpatti.ac.id/index.php/barekeng
 - https://ejournal.undip.ac.id/index.php/jsinbis
-- https://ojs3.unpatti.ac.id/index.php/barekeng
 
 ## Sinta 3
 - https://jurnal.untan.ac.id/index.php/jepin/search
