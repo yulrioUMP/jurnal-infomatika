@@ -3,7 +3,6 @@
 - https://e-journal.unair.ac.id/JISEBI/index
 - https://journal.binus.ac.id/index.php/commit/index
 - https://kinetik.umm.ac.id/index.php/kinetik/index
-- https://jurnal.untan.ac.id/index.php/jepin/search
 - https://journals.ums.ac.id/index.php/khif **
 - https://join.if.uinsgd.ac.id/index.php/join *
 - https://jurnalnasional.ump.ac.id/index.php/JUITA/index **
@@ -23,6 +22,7 @@
 - https://ojs3.unpatti.ac.id/index.php/barekeng
 
 ## Sinta 3
+- https://jurnal.untan.ac.id/index.php/jepin/search
 - https://journal.maranatha.edu/index.php/jutisi
 - https://jurnal.itpln.ac.id/petir
 - https://ejournal.uin-suka.ac.id/saintek/index.php/JISKA
