@@ -22,6 +22,7 @@
 - https://talenta.usu.ac.id/JoCAI
 - https://cogito.unklab.ac.id/index.php/cogito
 - https://ejournal.ikado.ac.id/index.php/teknika/
+- https://journal2.upgris.ac.id/index.php/asset
 
 ## Sinta 3
 - https://jurnal.untan.ac.id/index.php/jepin/search
