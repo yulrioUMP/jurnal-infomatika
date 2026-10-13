@@ -1,4 +1,11 @@
 # Daftar Jurnal Informatika
+## Q1 - Q4
+- https://cst.kipmi.or.id/journal/about
+- https://ijece.iaescore.com/index.php/IJECE/index
+- https://www.ijeei.org/aims.html
+- https://jeeemi.org/index.php/jeeemi
+- https://publikasi.dinus.ac.id/index.php/jcta
+
 ## Sinta 2
 - https://e-journal.unair.ac.id/JISEBI/index
 - https://journal.binus.ac.id/index.php/commit/index
