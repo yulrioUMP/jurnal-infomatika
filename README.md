@@ -5,6 +5,7 @@
 - https://www.ijeei.org/aims.html
 - https://jeeemi.org/index.php/jeeemi
 - https://publikasi.dinus.ac.id/index.php/jcta
+- https://ejournal.upi.edu/index.php/ijost/index
 
 ## Sinta 2
 - https://e-journal.unair.ac.id/JISEBI/index
@@ -13,7 +14,7 @@
 - https://journals.ums.ac.id/index.php/khif **
 - https://join.if.uinsgd.ac.id/index.php/join *
 - https://jurnalnasional.ump.ac.id/index.php/JUITA/index **
-- https://journal.universitasbumigora.ac.id/index.php/matrik
+- https://journal.universitasbumigora.ac.id/index.php/matrik latex
 - http://journal.uad.ac.id/index.php/JITEKI/
 - https://ojs.unud.ac.id/index.php/lontar
 - https://ojs.unpkediri.ac.id/index.php/intensif
