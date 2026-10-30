@@ -6,6 +6,7 @@
 - https://jeeemi.org/index.php/jeeemi
 - https://publikasi.dinus.ac.id/index.php/jcta
 - https://ejournal.upi.edu/index.php/ijost/index
+- https://journals.itb.ac.id/index.php/jictra
 
 ## Sinta 2
 - https://e-journal.unair.ac.id/JISEBI/index
